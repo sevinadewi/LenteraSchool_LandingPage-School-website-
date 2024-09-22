@@ -429,12 +429,6 @@ main {
 /* Importing Google font - Open Sans */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
-} */
 
 footer {
 position: relative;
@@ -521,21 +515,6 @@ position: relative;
 .footer-col form button:hover {
   background: #cecccc;
 }
-
-/* .footer-col .icons {
-  display: flex;
-  margin-top: 30px;
-  gap: 30px;
-  cursor: pointer;
-}
-
-.footer-col .icons i {
-  color: #afb6c7;
-}
-
-.footer-col .icons i:hover  {
-  color: #fff;
-} */
 
 @media (max-width: 768px) {
   footer {
